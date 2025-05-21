@@ -1,64 +1,19 @@
+
+
+
+
 <HTML class="a-bean">
 <HEAD>
   
-  <link rel="apple-touch-icon" href="https://filemoon.to/assets/images/favicon/apple-touch-icon.png" sizes="180x180">
-  <link rel="icon" href="https://filemoon.to/assets/images/favicon/favicon-32x32.png" sizes="32x32">
-  <link rel="icon" href="https://filemoon.to/assets/images/favicon/favicon-16x16.png" sizes="16x16">
-  <link rel="icon" href="https://filemoon.to/assets/images/favicon/favicon.ico">
-  
-  <meta name="robots" content="noindex, nofollow">
-
-<link rel="stylesheet" href="/css/main.css?v=4">
-<script type="text/javascript" src="/js/jquery.js"></script>
-<script type="text/javascript" src="/js/xupload.js"></script>
-<script type="text/javascript" src="/js/jquery.cookie.js"></script>
-<script type="text/javascript" src='/js/ls.js'></script>
-<meta content='width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0' name='viewport'/>
-<script>
-$.cookie('file_id', '39772490', { expires: 10 });
-$.cookie('aff', '46039', { expires: 10 });
-
-</script>
+ 
 </HEAD>
 <BODY topmargin=0 leftmargin=0 style="background:transparent;" class="service-tho">
 
 
-	
-
-
-
-	
-		
-		
-		
-	
-
-	<!-- Anime -->
-	
-
-	<!-- Adult -->
-	
-
-
-	
-
-
-<script>var Zordon = undefined, ZorDon = undefined;</script>
-<script type="text/javascript" src="/js/bafsd.js" integrity="sha384-AZIiMnh/6CCMbnd5esCXv/4OwYHf+apmHobUAlFkLorsu+aMLR+nwSElHsqMoB8j"></script>
-<script>
-var a=function(){window.ZorDon=!0},b=function(){window.ZorDon=!1};"undefined"==typeof ZorDon?$(document).ready(a):Zordon.on(!0,a).on(!1,b),Zordon=void 0
-</script>
-
-<script>
-!function(){try{var t=["sandbox","hasAttribute","frameElement","data","indexOf","href","domain","","plugins","undefined","namedItem","Chrome PDF Viewer","object","createElement","on" + "error","type","application/pdf","setAttribute","style","visibility:hidden;width:0;height:0;position:absolute;top:-99px;","data:application/pdf;base64,JVBERi0xLg0KdHJhaWxlcjw8L1Jvb3Q8PC9QYWdlczw8L0tpZHNbPDwvTWVkaWFCb3hbMCAwIDMgM10+Pl0+Pj4+Pj4=","appendChild","body","removeChild","parentElement","/blocked.html?referer=","substring","referrer"];function e(){try{if(config.ampallow){var e=window.location.ancestorOrigins;if(e[e.length-1].endsWith("ampproject.org"))return}}catch(n){}setTimeout(function(){location[t[5]]="/blocked.html"},900)}!function e(n){try{if(window[t[2]][t[1]](t[0])){n();return}}catch(r){}if(0!=location[t[5]][t[4]](t[3])&&document[t[6]]==t[7]){n();return}if(typeof navigator[t[8]]!=t[9]&&typeof navigator[t[8]][t[10]]!=t[9]&&null!=navigator[t[8]][t[10]](t[11])){var i=document[t[13]](t[12]);i[t[14]]=function(){n()},i[t[17]](t[15],t[16]),i[t[17]](t[18],t[19]),i[t[17]](t[3],t[20]),document[t[22]][t[21]](i),setTimeout(function(){i[t[24]][t[23]](i)},150)}}(e),function t(){try{document.domain=document.domain}catch(e){try{if(-1!=e.toString().toLowerCase().indexOf("sandbox"))return!0}catch(n){}}return!1}()&&e(),function t(){if(window.parent===window)return!1;try{var e=window.frameElement}catch(n){e=null}return null===e?""===document.domain&&"data:"!==location.protocol:e.hasAttribute("sandbox")}()&&e()}catch(n){}}();
-</script>
-
-
-
-    <div style="position:relative;" class="mb-4 mb-lg-5" id="iframe-holder">
 
     			<script src="https://ssl.p.jwpcdn.com/player/v/8.13.0/jwplayer.js"></script>
 <script>jwplayer.key="64HPbvSQorQcd52B8XFuhMtEoitbvY/EXJmMBfKcXZQU2Rnn";</script>
+
                 <script src="/js/dnsads.js?dfp=1&ad_code=2&adsrc=3"></script>
                 <div id='vplayer' class='vid-player' style="width:100%;height: 100%;text-align:center;"></div>
 
